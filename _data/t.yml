@@ -1,0 +1,54 @@
+---
+## Main icon
+icon: "/assets/images/logoportale.png"
+
+## Social Card [1200x630]
+social-card: /assets/images/favicons/social-card.png
+
+## Site name
+name:
+  it: "Portale Studentesco"
+
+## Site description
+description:
+  it: "Assemblea del 26 febbraio 2022"
+
+## Site author
+author:
+  it: "Euganeo RTV - IIS Euganeo"
+
+## Social
+social-links:
+  it:
+    youtube:
+      name: "youtube"
+      url: "https://www.youtube.com/euganeortv"
+    instagram:
+      name: "instagram"
+      url: "https://www.instagram.com/euganeortv/"
+    facebook:
+      name: "facebook"
+      url: "https://www.facebook.com/iiseuganeortv/"
+    twitter:
+      name: "twitter"
+      url: "https://twitter.com/euganeortv"
+
+## Labels
+italian-version:
+  it: "Versione italiana"
+english-version:
+  it: "Versione inglese"
+cookie-policy-info:
+  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
+cookie-policy-accept-btn:
+  it: "Accetto"
+footer-links:
+  it:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "/it/privacy-policy"
+    cookie-policy:
+      name: "Cookie Policy"
+      url: "/it/cookie-policy"
+
+
