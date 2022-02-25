@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Educazione Sessuale
-ref: educazionesessuale
+title: Pilotaggio Aereo e strumentazione
+ref: pilotaggioaereo
 durata: Turno 1 e Turno 2
-meeting: https://app.gotomeeting.com/?meetingId=892505077
+meeting: https://app.gotomeeting.com/?meetingId=327349541
 ---
 
-Corso di Educazione Sessuale a cura della Croce Rossa
+PILOTAGGIO AEREO, STRUMENTAZIONE DI BORDO, CONTROLLO TRAFFICO E METEOROLOGIA (fenomeni pericolosi per il volo)
